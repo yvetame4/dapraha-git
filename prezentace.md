@@ -568,3 +568,4 @@ class: excer
 --
 
 * Merge konflikt vyřeš a příkazem `git commit` své řešení commitni
+# lalalala
